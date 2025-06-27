@@ -56,5 +56,4 @@ Contributions are welcome! Please feel free to submit issues and pull requests.
 
 <div align="center"> 
 
-#### Developed by [Mindula Dilthushan Manamperi](http://minduladilthushan.netlify.app/) ^_~
 </div>
