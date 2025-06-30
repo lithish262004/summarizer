@@ -1,4 +1,4 @@
-# PDF Summarizer for React.js
+# PDF,DOCS,EXCEL Summarizer for React.js
 
 PDF Summarizer is a web application built with React.js that simplifies the process of summarizing PDF documents.
 
