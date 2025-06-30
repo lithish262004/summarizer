@@ -1,17 +1,17 @@
 # PDF,DOCS,EXCEL Summarizer for React.js
 
-PDF Summarizer is a web application built with React.js that simplifies the process of summarizing PDF documents.
+PDF,DOCS,EXCEL Summarizer is a web application built with React.js that simplifies the process of summarizing PDF,DOCS,EXCEL documents.
 
 ## Features
 
-- Upload PDF files
+- Upload PDF,DOCS & EXCEL files
 - Extract text content
-- View PDF metadata (title, author, page count)
+
 - Generate summaries effortlessly
 
 ## Getting Started
 
-To get started with PDF Summarizer, follow these steps:
+To get started with PDF,DOCS,EXCEL Summarizer, follow these steps:
 
 1. Clone this repository.
 ```md
