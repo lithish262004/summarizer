@@ -15,7 +15,7 @@ To get started with PDF,DOCS,EXCEL Summarizer, follow these steps:
 
 1. Clone this repository.
 ```md
-git clone https://github.com/Mindula-Dilthushan/PDF-Summarizer.git
+git clone https://github.com/lithish262004/summarizer.git
 ```
 2. Install dependencies using `npm install`.
 3. Start the development server using `npm start`.
